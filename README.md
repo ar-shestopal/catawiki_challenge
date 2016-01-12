@@ -48,9 +48,15 @@ Description
   1 3 N
 
   5 1 E
+  
 Comments:
+
   To run the program run ruby nasa.rb
+  
+  To run specs run rspec spec/
+  
   You will see an output: 
+  
     Robot1
     commands: ["L", "M", "L", "M", "L", "M", "L", "M", "M"]
     initial position: 1 2 N
